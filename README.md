@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on pure Mathematics, Statistic & Probability📊📉.
+- I’m currently working on pure Mathematics, Statistic & Probability📊📉.
 - I’m learning Dev C++, JS, Pyhton⌨️🖱.
 - I’m looking to collaborate with those who wish to go beyond
 analyze mathematical situations and extend ideas to new contexts like Software Dev.
